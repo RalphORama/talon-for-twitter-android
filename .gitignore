@@ -1,3 +1,5 @@
+keystore
+keystore.properties
 .gradle/
 .idea/
 build/
