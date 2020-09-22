@@ -15,3 +15,12 @@
  */
 
 include ':app', ':wear', ':shared_assets', ':searchview', ':lvl'
+
+
+
+gradleEnterprise {
+    buildScan {
+        termsOfServiceUrl = 'https://gradle.com/terms-of-service'
+        termsOfServiceAgree = 'yes'
+    }
+}
